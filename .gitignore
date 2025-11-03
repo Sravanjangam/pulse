@@ -1,0 +1,8 @@
+# Compiled Go binary
+pulse-api
+
+# OS files
+.DS_Store
+
+# Docker data
+db-data/
